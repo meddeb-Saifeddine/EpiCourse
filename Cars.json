@@ -3,7 +3,8 @@
 "name": "Ford",
 "models": [
 {
-"name": "Fiesta"
+"name": "Fiesta",
+"puissance_fiscale" : "5cv"
 },
 {
 "name": "Focus"
