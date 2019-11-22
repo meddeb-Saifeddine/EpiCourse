@@ -10,7 +10,7 @@
 {
 "name": "Focus",
 "puissance_fiscale": "6cv",
-"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/focus.jpeg"
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/focus.jpg"
 },
 {
 "name": "Mustang",
@@ -35,7 +35,7 @@
 {
 "name": "X5",
 "puissance_fiscale": "15cv",
-"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/x5.jpeg"
+"image_url" : "https://raw.githubusercontent.com/meddeb-Saifeddine/EpiCourse/master/x5.jpg"
 }
 ]
 },
