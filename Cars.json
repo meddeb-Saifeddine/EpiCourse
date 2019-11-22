@@ -7,10 +7,12 @@
 "puissance_fiscale": "5cv"
 },
 {
-"name": "Focus"
+"name": "Focus",
+"puissance_fiscale": "6cv"
 },
 {
-"name": "Mustang"
+"name": "Mustang",
+"puissance_fiscale": "24cv"
 }
 ]
 },
@@ -18,13 +20,16 @@
 "name": "BMW",
 "models": [
 {
-"name": "320"
+"name": "320",
+"puissance_fiscale": "7cv"
 },
 {
-"name": "X3"
+"name": "X3",
+"puissance_fiscale": "8cv"
 },
 {
-"name": "X5"
+"name": "X5",
+"puissance_fiscale": "15cv"
 }
 ]
 },
@@ -32,10 +37,12 @@
 "name": "Fiat",
 "models": [
 {
-"name": "500"
+"name": "500",
+"puissance_fiscale": "4cv"
 },
 {
-"name": "Panda"
+"name": "Panda",
+"puissance_fiscale": "5cv"
 }
 ]
 }
