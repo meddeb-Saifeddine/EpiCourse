@@ -8,13 +8,13 @@
         "name" : "Restaurant l'escargot",
         "food" : [
             {
-                "name": "Pizza",
+                "name": "Pizza"
             },
             {
-                "name": "spaghetti fromage",
+                "name": "spaghetti fromage"
             },
             {
-                "name": "Couscous",
+                "name": "Couscous"
             }
         ]
     },
@@ -27,13 +27,13 @@
         "name" : "Restaurant Lido",
         "food" : [
             {
-                "name": "pizza bolognaise",
+                "name": "pizza bolognaise"
             },
             {
-                "name": "Pizza 4 fromage",
+                "name": "Pizza 4 fromage"
             },
             {
-                "name": "Pizza 4 saison",
+                "name": "Pizza 4 saison"
             }
         ]
     },
@@ -44,7 +44,7 @@
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "552be4388ab738b367b3f19f359b464050636073",
         "name" : "THE FIRST coffee & resto",
-        "food" : nil
+        "food" : []
     },
     {
         "address" : "Avenue Taïeb Mehiri, Sousse, Tunisie",
@@ -53,7 +53,7 @@
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "a49643c315964109b89c2984ae45d0d39efccf09",
         "name" : "Restaurant Le Surfin",
-        "food" : nil
+        "food" : []
     },
     {
         "address" : "Avenue Hedi Chaker, Sousse, Tunisie",
@@ -64,13 +64,13 @@
         "name" : "Caruso",
         "food" : [
             {
-                "name": "Lasagne",
+                "name": "Lasagne"
             },
             {
-                "name": "spaghetti bolognaise fruit de mer",
+                "name": "spaghetti bolognaise fruit de mer"
             },
             {
-                "name": "spaghetti bolognaise",
+                "name": "spaghetti bolognaise"
             }
         ]
     },
@@ -81,7 +81,7 @@
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "b8482e83c02fc01e46f2bba28cdec1c124f25b93",
         "name" : "Restaurant Cafe Sales",
-        "food" : nil
+        "food" : []
     },
     {
         "address" : "Boulevard de la Corniche, Sousse, Tunisie",
@@ -89,8 +89,8 @@
         "lng" : 10.6336391,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "25ef7859b5721ba8e349310c7053fab70963cafc",
-        "name" : "Planet Food"
-        "food" : nil
+        "name" : "Planet Food",
+        "food" : []
     },
     {
         "address" : "Sousse, Tunisie",
@@ -101,11 +101,11 @@
         "name" : "Restaurant Una Storia Della Vita",
         "food" : [
             {
-                "name": "Plat scalope grillé",
+                "name": "Plat scalope grillé"
             },
             {
-                "name": "Plat chawarma",
-            },
+                "name": "Plat chawarma"
+            }
         ]
     },
     {
@@ -114,8 +114,8 @@
         "lng" : 10.613772,
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "a8c3c346eac1bf274835c4fc69a3b27f7c0040cf",
-        "name" : "Maremar"
-        "food" : nil
+        "name" : "Maremar",
+        "food" : []
     },
     {
         "address" : "Hammam Sousse, Tunisie",
@@ -126,7 +126,7 @@
         "name" : "Restaurant Miam's Hammam Sousse",
         "food" : [
             {
-                "name": "Kabeb",
+                "name": "Kabeb"
             }
         ]
     },
@@ -137,6 +137,6 @@
         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
         "id" : "b38acdeb8fdd104bdc6142817e5a9641c20b8144",
         "name" : "K-noé",
-        "food" : nil
+        "food" : []
     }
 ]
